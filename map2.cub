@@ -1,0 +1,14 @@
+NO ./tex/north.xpm
+SO ./tex/south.xpm
+WE ./tex/west.xpm
+EA ./tex/east.xpm
+
+
+C 0,0,255
+F 82,64,92
+
+1111111
+1000001
+100E001
+1000001
+1111111
